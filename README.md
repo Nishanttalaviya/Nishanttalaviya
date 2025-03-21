@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Talaviya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Ambivert</h3>
 
 - 🔭 I’m currently working on **Jenkins/CI-CD**
 
