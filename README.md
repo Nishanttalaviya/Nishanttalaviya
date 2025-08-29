@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Talaviya</h1>
 <h3 align="center">Ambivert</h3>
 
-- 🔭 I’m currently working on **Nginx**
+- 🔭 I’m currently working on **K8S**
 
 - 💬 Ask me about **Python**
 
